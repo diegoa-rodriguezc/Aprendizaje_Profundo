@@ -1,0 +1,2 @@
+datasets/ANIME_FACES_DATASET.zip filter=lfs diff=lfs merge=lfs -text
+datasets/MANGA_FACES_DATASET.zip filter=lfs diff=lfs merge=lfs -text
