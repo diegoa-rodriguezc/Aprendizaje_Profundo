@@ -1,4 +1,4 @@
-# Aprendizaje_Profundo Trabajo Final
+# Aprendizaje Profundo :: Trabajo Final
 
 Proyecto de generación de rostros de anime mediante GANs.
 
